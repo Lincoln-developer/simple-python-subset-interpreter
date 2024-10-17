@@ -1,7 +1,3 @@
-
-### Example `CODE_OF_CONDUCT.md`
-
-```markdown
 # Code of Conduct
 
 ## Our Pledge
@@ -62,6 +58,5 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
----
 
 

@@ -46,19 +46,19 @@ Thank you for your interest in contributing to **Simple Python Subset Interprete
 - Use pytest or the appropriate testing framework recommended by the project.
 
 ## Reporting Issues
-If you encounter any bugs or have suggestions for improvement, please open an issue in the repository with:
+- If you encounter any bugs or have suggestions for improvement, please open an issue in the repository with:
 
     - A clear description of the issue.
     - Steps to reproduce the bug (if applicable).
     - Any relevant logs or screenshots.
 
 ## Code of Conduct
-By participating in this project, you agree to abide by the `[Code of Conduct](./CODE_OF_CONDUCT.md)`.
+By participating in this project, you agree to abide by the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
-All contributions will be subject to the terms of the `[MIT License](./LICENSE)`.
+- All contributions will be subject to the terms of the [MIT License](./LICENSE).
 
 ## Acknowledgements
-We are grateful for the efforts of all contributors! Your contributions help make this project better and more useful for everyone.
+- We are grateful for the efforts of all contributors! Your contributions help make this project better and more useful for everyone.
 
 **Thank you for contributing! 🚀🐍**

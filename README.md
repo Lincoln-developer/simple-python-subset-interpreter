@@ -59,13 +59,13 @@ A lightweight interpreter for a subset of the Python language, designed for educ
     >>> exit()
 
 ## Contributing
-- We welcome contributions! Please follow the instructions in our `[Contributing Guide](./CONTRIBUTING.md)`.
+- We welcome contributions! Please follow the instructions in our [Contributing Guide](./CONTRIBUTING.md).
 
 ## Code of Conduct
-- All participants are expected to adhere to our `[Code of Conduct](./CODE_OF_CONDUCT.md)`.
+- All participants are expected to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
-- This project is licensed under the terms of the `[MIT License](./LICENSE)`
+- This project is licensed under the terms of the [MIT License](./LICENSE).
 
 ## Acknowledgements
 - **Crafting Interpreters by Robert Nystrom** for inspiration on interpreter design.
